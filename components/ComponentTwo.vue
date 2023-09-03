@@ -141,7 +141,7 @@ const animateCaption = {
 
         & p {
           width: 68%;
-          font-size: 10px;
+          font-size: 14px;
           line-height: 1.8;
           font-weight: 400;
           color: #5f5c68;
