@@ -99,7 +99,7 @@ $color-description: #d8d6e2;
 
       & p {
         color: $color-description;
-        font-size: 14px;
+        font-size: 13px;
         letter-spacing: 1px;
 
         @include phone {
@@ -122,7 +122,7 @@ $color-description: #d8d6e2;
       & .image-wrapper {
         position: relative;
         aspect-ratio: 2.25 / 3;
-        max-height: 250px;
+        max-height: 350px;
         overflow: hidden;
 
         @include phone {

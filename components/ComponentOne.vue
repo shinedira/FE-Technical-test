@@ -155,7 +155,7 @@ const onSlideChange = (swiper: any) => {
 
         & p {
           font-weight: 400;
-          font-size: 14px;
+          font-size: 13px;
           line-height: 1.8;
           letter-spacing: 1px;
           margin: 30px auto 30px;
