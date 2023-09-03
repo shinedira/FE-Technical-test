@@ -77,7 +77,7 @@ $bg-color: #f0f0f5;
     & .caption {
       position: absolute;
       background-color: $white;
-      aspect-ratio: 1 / 1.1;
+      aspect-ratio: 1 / 1.2;
       width: 27%;
       z-index: 2;
       top: 10%;
