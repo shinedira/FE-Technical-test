@@ -161,7 +161,7 @@ const animateCaption = {
 
           & a {
             text-decoration: none;
-            font-size: 8px;
+            font-size: 11px;
             line-height: 2;
             text-transform: uppercase;
             letter-spacing: 1px;
