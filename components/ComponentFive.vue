@@ -73,7 +73,7 @@ onMounted(() => {
 
     & p {
       width: 50%;
-      font-size: 10px;
+      font-size: 14px;
       line-height: 1.8;
       font-weight: 400;
       margin-bottom: 20px;

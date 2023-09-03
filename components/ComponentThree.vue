@@ -99,7 +99,7 @@ $color-description: #d8d6e2;
 
       & p {
         color: $color-description;
-        font-size: 10px;
+        font-size: 14px;
         letter-spacing: 1px;
 
         @include phone {

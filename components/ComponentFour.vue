@@ -125,7 +125,7 @@ $bg-color: #f0f0f5;
 
       & p {
         width: 80%;
-        font-size: 10px;
+        font-size: 14px;
         line-height: 1.8;
         font-weight: 400;
         color: #5f5c68;
